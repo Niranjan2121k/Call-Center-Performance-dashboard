@@ -104,16 +104,6 @@ The dataset contains information on:
 - Optimize **weekend staffing** to handle higher call volumes effectively.
 - Investigate why **R04 has a lower revenue per call** despite similar call numbers.
 - Focus on **Columbus for targeted marketing campaigns**, as it has the highest revenue potential.
-
----
-
-## **Screenshots**
-### **Raw Data (Excel Pivot Tables)**
-![Excel Data](Screenshot_2025-03-23_at_4.40.02_PM.png)
-
-### **Tableau Dashboard Visualization**
-![Tableau Dashboard](Screenshot_2025-03-23_at_4.49.54_PM.png)
-
 ---
 
 ## **Project Tools**
